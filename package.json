@@ -1,0 +1,13 @@
+{
+  "name": "Arbitrage in DeFi (Binance Smart Chain)",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "@uniswap/v3-core": "^1.0.1",
+    "cli-progress": "^3.12.0",
+    "web3": "^4.3.0"
+  }
+}
